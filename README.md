@@ -1,8 +1,7 @@
 # PiHopper
 The PiHopper high-performance pi computations engine
 
-**Current highest computation done with PiHopper: 10 Milliards and above
-**
+**Current highest computation done with PiHopper: 10 Milliards and above**
 
 
 **Current calculation running on my machine:
