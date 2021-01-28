@@ -5,4 +5,4 @@ The PiHopper high-performance pi computations engine
 
 
 **Current calculation running on my machine:
- Multithreaded Pi computations to 1 billions of digits on my `i7-quadcore`**
+ Multithreaded Pi computations to 1 billions of digits on my `Lenovo L13 i7-quadcore`**
